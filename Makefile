@@ -10,7 +10,7 @@ SRCS=main.c system_stm32f4xx.c
 PROJ_NAME=blinky
 
 # Put your STM32F4 library code directory here
-STM_COMMON=../STM32F4-Discovery_FW_V1.1.0
+STM_COMMON=../../Libraries/STM32F4-Discovery_FW_V1.1.0
 
 # Normally you shouldn't need to change anything below this line!
 #######################################################################################
